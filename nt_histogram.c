@@ -11,6 +11,7 @@ int main(){
 	int a, t, g, c;
 	char chr;
 	a = t = g = c = 0;
+	printf("Enter the DNA sequence\n");
 	while ((chr = getchar()) != EOF){
 		if (chr == 'A'){
 			++a;}
