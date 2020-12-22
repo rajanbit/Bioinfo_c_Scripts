@@ -16,3 +16,11 @@ Usage
 $ gcc nt_histogram.c -o nt_histogram
 $ ./nt_histogram
 ```
+### aa_histogram.c
+Print the horizontal histogram of amino-acids composition of the entered protein sequence
+
+Usage
+```
+$ gcc aa_histogram.c -o aa_histogram
+$ ./aa_histogram
+```
